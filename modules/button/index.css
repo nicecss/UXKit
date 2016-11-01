@@ -1,0 +1,10 @@
+$namespace = '.button'
+
+{$namespace} {
+  color: red;
+
+  &:hover {
+    color: red;
+  }
+}
+

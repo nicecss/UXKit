@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "server": "node server/server"
+  },
+  "devDependencies": {
+    "koa": "^2.0.0-alpha.7",
+    "koa-router": "^7.0.1",
+    "stylus": "^0.54.5"
+  }
+}
